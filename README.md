@@ -21,7 +21,7 @@ Clear visualizations of model performance (ROC curves, precision-recall plots) a
 - Portfolio risk monitoring for banks and fintech firms
 🛠️ Tech Stack
 - Python: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
-- Jupyter Notebooks: Reproducible experiments and analysis
+
 - Optional integration with Power BI / Tableau for executive dashboards
 
-This description balances the technical workflow with the business impact, making it appealing for both developers and finance professionals.
+.
